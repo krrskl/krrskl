@@ -1,7 +1,5 @@
 ## Hi, I'm Rubén Carrascal
 
-<img align='right' src="https://github.com/krrskl/krrskl/blob/master/profile.png?raw=true" width="230" style="border-radius:50%; filter: grayscale(100%);">
-
 > <p>Front-end developer</p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=krrskl)
