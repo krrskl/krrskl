@@ -44,6 +44,9 @@ const krrskl = {
 
 ### Wakatime metrics
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=krrskl&show_icons=true&theme=dracula)
