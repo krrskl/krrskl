@@ -45,7 +45,7 @@ const krrskl = {
 ### Wakatime metrics
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Vue.js   3 hrs 9 mins    █████████████████████████   99.87 % 
 ```
 <!--END_SECTION:waka-->
 
