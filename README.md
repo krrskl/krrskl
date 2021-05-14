@@ -45,11 +45,11 @@ const krrskl = {
 ### Wakatime metrics
 <!--START_SECTION:waka-->
 ```text
-Vue.js       19 hrs 8 mins   ████████████████░░░░░░░░░   64.35 % 
-JavaScript   6 hrs 44 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.67 % 
-TypeScript   2 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-JSON         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-Other        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Vue.js       14 hrs 52 mins  █████████████▒░░░░░░░░░░░   53.22 % 
+JavaScript   9 hrs 8 mins    ████████▒░░░░░░░░░░░░░░░░   32.72 % 
+TypeScript   2 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+JSON         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Other        22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 ```
 <!--END_SECTION:waka-->
 
