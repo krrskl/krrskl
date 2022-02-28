@@ -44,13 +44,16 @@ const krrskl = {
 
 ### Wakatime metrics
 <!--START_SECTION:waka-->
+
 ```text
-Vue.js       7 hrs 28 mins   ██████████████████░░░░░░░   71.69 % 
-Dart         1 hr 59 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.11 % 
-JavaScript   29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-SCSS         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Vue.js       4 hrs 7 mins    ██████████████░░░░░░░░░░░   56.65 %
+Dart         1 hr 50 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.39 %
+JSON         50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+TypeScript   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+JavaScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
+
 <!--END_SECTION:waka-->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=krrskl&show_icons=true&theme=dracula)
