@@ -46,11 +46,11 @@ const krrskl = {
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 hrs 16 mins   █████████▒░░░░░░░░░░░░░░░   36.80 %
-HTML         7 hrs 4 mins    ████████░░░░░░░░░░░░░░░░░   31.46 %
-TypeScript   6 hrs 14 mins   ███████░░░░░░░░░░░░░░░░░░   27.80 %
-SCSS         51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript   7 hrs 55 mins   █████████▓░░░░░░░░░░░░░░░   38.77 %
+HTML         7 hrs 16 mins   █████████░░░░░░░░░░░░░░░░   35.57 %
+JavaScript   3 hrs 26 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
+SCSS         1 hr 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
