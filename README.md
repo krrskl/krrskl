@@ -46,10 +46,10 @@ const krrskl = {
 <!--START_SECTION:waka-->
 
 ```text
-Docker       3 hrs 29 mins   ███████████░░░░░░░░░░░░░░   43.34 %
-JSON         3 hrs 13 mins   ██████████░░░░░░░░░░░░░░░   40.10 %
-Markdown     37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Other        33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+JSON         2 hrs 52 mins   ██████████░░░░░░░░░░░░░░░   39.67 %
+Docker       2 hrs 39 mins   █████████░░░░░░░░░░░░░░░░   36.63 %
+Markdown     1 hr 9 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
+Other        24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
 ```
 
 <!--END_SECTION:waka-->
