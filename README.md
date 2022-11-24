@@ -46,8 +46,8 @@ const krrskl = {
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   24 hrs 2 mins   ████████████████████▓░░░░   82.98 %
-Other        2 hrs 27 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+TypeScript   25 hrs 20 mins  ████████████████████▓░░░░   82.95 %
+Other        3 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
 ```
 
 <!--END_SECTION:waka-->
