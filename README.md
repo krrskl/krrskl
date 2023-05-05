@@ -46,8 +46,7 @@ const krrskl = {
 <!--START_SECTION:waka-->
 
 ```text
-Dart         29 mins         █████████░░░░░░░░░░░░░░░░   35.37 %
-Other        29 mins         ████████▓░░░░░░░░░░░░░░░░   34.91 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
