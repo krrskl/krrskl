@@ -46,7 +46,11 @@ const krrskl = {
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Dart         2 hrs 59 mins   ███████████████▓░░░░░░░░░   63.17 %
+JSON         56 mins         █████░░░░░░░░░░░░░░░░░░░░   19.99 %
+YAML         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+Other        14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+TypeScript   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
 ```
 
 <!--END_SECTION:waka-->
