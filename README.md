@@ -46,7 +46,7 @@ const krrskl = {
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   3 hrs 20 mins   █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
