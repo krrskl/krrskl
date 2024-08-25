@@ -46,8 +46,7 @@ const krrskl = {
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       3 mins          ████████████████████████░   95.82 %
-TypeScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
