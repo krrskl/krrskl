@@ -46,11 +46,7 @@ const krrskl = {
 <!--START_SECTION:waka-->
 
 ```txt
-HTTP Request   10 mins         █████████▒░░░░░░░░░░░░░░░   37.02 %
-XML            7 mins          ██████░░░░░░░░░░░░░░░░░░░   24.03 %
-Swift          4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
-Other          3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
-TypeScript     2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
