@@ -46,11 +46,11 @@ const krrskl = {
 <!--START_SECTION:waka-->
 
 ```txt
-Swift          7 hrs 32 mins   █████████████▓░░░░░░░░░░░   54.48 %
-HTTP Request   2 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.85 %
-Other          2 hrs 13 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
-JavaScript     36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-CocoaPods      33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Swift          7 hrs 32 mins   █████████████░░░░░░░░░░░░   52.23 %
+HTTP Request   2 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.08 %
+Other          2 hrs 35 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
+JavaScript     38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+CocoaPods      33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
 ```
 
 <!--END_SECTION:waka-->
