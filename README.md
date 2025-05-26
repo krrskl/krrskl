@@ -9,9 +9,9 @@
 
 ```javascript
 const krrskl = {
-  code: ["Javascript", "Typescript", "PHP"],
-  tools: ["Angular", "RxJs", "Laravel", "NodeJS"],
-  preprocessors: ["SASS"],
+  code: ["Javascript", "Typescript", "PHP", "Dart", "Swift", "Kotlin"],
+  tools: ["Angular", "Vue", "Svelte", "Laravel", "NodeJS", "Flutter", "SwiftUI", "KMP"],
+  clouds: ["AWS", "GCP", "CloudFlare"],
   blogs: [
     {
       name: "medium",
