@@ -1,6 +1,6 @@
 ## Hi, I'm Rubén Carrascal
 
-> <p>Front-end developer</p>
+> <p>Full stack developer</p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=krrskl)
 [![GitHub Krrskl](https://img.shields.io/github/followers/krrskl?label=follow&style=social)](https://github.com/krrskl)
