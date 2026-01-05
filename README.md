@@ -55,8 +55,6 @@ Svelte         37 mins         █▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=krrskl&show_icons=true&theme=dracula)
-
 ## Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rubén%20Carrascal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krrskl)](https://www.linkedin.com/in/krrskl)
